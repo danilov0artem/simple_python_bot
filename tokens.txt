@@ -16,3 +16,26 @@ Keep your token secure and store it safely, it can be used by anyone to control 
 For a description of the Bot API, see this page: https://core.telegram.org/bots/api
 
 
+Done! Congratulations on your new bot. You will find it at t.me/testCollegeTop3_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
+
+Use this token to access the HTTP API:
+8239421732:AAG0zmtp6ycYqvhS-3-DbpJhZq4SBD2k6vM
+Keep your token secure and store it safely, it can be used by anyone to control your bot.
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api
+
+Done! Congratulations on your new bot. You will find it at t.me/testTOPcollege2_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
+
+Use this token to access the HTTP API:
+8406730210:AAG_ncEV0x4wS8_abVzXzJ6TNP1Z2tr4t6U
+Keep your token secure and store it safely, it can be used by anyone to control your bot.
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api
+
+Done! Congratulations on your new bot. You will find it at t.me/testTOPcollege_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
+
+Use this token to access the HTTP API:
+8316103172:AAHxIKWQJgrXO5kSrZT7DdTArAGvzdczvDo
+Keep your token secure and store it safely, it can be used by anyone to control your bot.
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api
